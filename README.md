@@ -1,11 +1,12 @@
 # Awesome-hand-detection-tracking
 ## 1. Dataset
-*　[egohands](http://vision.soic.indiana.edu/projects/egohands/)
+
+* [egohands](http://vision.soic.indiana.edu/projects/egohands/)
 * ["Hand Dataset" from University of Oxford](http://www.robots.ox.ac.uk/%7Evgg/research/hands/index.html)
 
-## Method 
-### Using google object detection api 
-#### Egohand 
+## 2. Method 
+### 2.1. Using google object detection api 
+#### 2.1.1. Egohand 
 > detect hands in video
 * https://medium.com/@victor.dibia/how-to-build-a-real-time-hand-detector-using-neural-networks-ssd-on-tensorflow-d6bac0e4b2ce
 *  https://github.com/victordibia/handtracking
@@ -22,13 +23,13 @@
 > explain detail howto recognize!!!
 * https://github.com/MrEliptik/HandPose
 * https://github.com/zzeitt/Gesture-Recognition
-### Custom dataset
+### 2.2. Custom dataset
 
 * https://github.com/EvilPort2/Hand-Tracking
 > It seem better than vicrtor.dibia
 
 
-### 　 "Hand Dataset" from University of Oxford
+### 2.3. "Hand Dataset" from University of Oxford
 * https://github.com/loicmarie/hands-detection
 
 
