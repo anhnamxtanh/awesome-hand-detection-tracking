@@ -2,7 +2,8 @@
 ## 1. Dataset
 
 * [egohands](http://vision.soic.indiana.edu/projects/egohands/)
-* ["Hand Dataset" from University of Oxford](http://www.robots.ox.ac.uk/%7Evgg/research/hands/index.html)
+* [Oxford hand dataset](http://www.robots.ox.ac.uk/%7Evgg/research/hands/index.html)
+* VIVA hand database
 
 ## 2. Method 
 ### 2.1. Using google object detection api 
